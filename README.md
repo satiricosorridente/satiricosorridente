@@ -12,7 +12,6 @@
 
   <h3>My name’s Shagazz, I’m 17.</h3>
 
-  My name’s Shagazz, I’m 17. 
   • An enthusiast? Nah, I’m just a crazy guy 🌬<br>
   • Obsessed with coding and the digital world.<br>
   "Reinvent yourself: Don’t just accept the role society gives you."
