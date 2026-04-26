@@ -1,4 +1,3 @@
-<!-- TOPO (faixa contínua retrô) -->
 <p align="center">
   <img src="images/pixel2.gif" width="100%" height="50">
 </p>
@@ -13,16 +12,16 @@
 <p align="center">
   An enthusiast? Nah bro, I’m just a crazy guy 🌬<br>
   I’m obsessed with learning programming and everything about the web world.<br>
-  "Reinvent yourself: Don’t just accept the role society gives you."
+  "Reinvent yourself: Don’t just accept the role society gives you."  <br>
+  <img src="images/girl.gif" height="200"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="images/girl.gif" height="200"/>
+
 </p>
 
-<!-- FINAL (faixa contínua retrô) -->
 <p align="center">
   <img src="images/pixel2.gif" width="100%" height="50">
 </p>
