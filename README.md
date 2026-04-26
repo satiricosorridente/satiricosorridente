@@ -12,10 +12,10 @@
 
   <h3>My name’s Shagazz, I’m 17.</h3>
 
-  Shagazz, 17.
-  Not an enthusiast—just a crazy mind 🌬
+  My name’s Shagazz, I’m 17.
+  An enthusiast? Nah, I’m just a crazy guy 🌬
   Obsessed with coding and the digital world.
-  “Reinvent yourself. Refuse the role society writes for you.”
+  "Reinvent yourself: Don’t just accept the role society gives you."
 </p>
 
 <br clear="right">
