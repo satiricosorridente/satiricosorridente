@@ -16,8 +16,6 @@
   <img src="images/girl.gif" height="200"/>
 </p>
 
-<br>
-
 <p align="center">
 
 </p>
