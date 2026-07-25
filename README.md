@@ -96,7 +96,7 @@ Interests: AI, Linux, Machines, Scripting.
   <a href="https://www.youtube.com/watch?v=UwLRDMQYh9M&list=RDUwLRDMQYh9M&start_radio=1">
     <img src="assets/catjade.jpg" width="200"/>
   </a>
-  <br><b>Brain - Kanaria</b>
+  <br><b>Give it Up - Victorious</b>
 </td>
 </tr>
 </table>
