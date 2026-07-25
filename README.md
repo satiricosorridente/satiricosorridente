@@ -55,7 +55,6 @@ Interests: AI, Linux, Machines, Scripting.
 <br><br>
 
 <h2 align="center">Favorite Songs</h2>
-<hr color="#A40000" size="2" width="90%">
 <br>
 
 <table align="center" cellpadding="15" cellspacing="0" border="0">
