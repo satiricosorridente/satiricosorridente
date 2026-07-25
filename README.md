@@ -1,12 +1,21 @@
+<!-- ============================== -->
+<!-- BORDA SUPERIOR -->
+<!-- ============================== -->
 <img src="assets/borda_bottom.png" width="100%" >
 <br>
 
+<!-- ============================== -->
+<!-- TÍTULO ANIMADO -->
+<!-- ============================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&size=22&letterSpacing=10px&duration=4350&pause=600&color=A40000&background=FF1B1B00&width=800&height=45&lines=%F0%9F%82%A0+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%99%A0%EF%B8%8F+%E2%99%A5%EF%B8%8F+SATIRICALLY+%E2%99%A6%EF%B8%8F+%E2%99%A3%EF%B8%8F+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%F0%9F%82%A0;%F0%9F%82%A0+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%99%A0%EF%B8%8F+%E2%99%A5%EF%B8%8FSMILING+%E2%99%A6%EF%B8%8F+%E2%99%A3%EF%B8%8F+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%F0%9F%82%A0" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ============================== -->
+<!-- BIO / STATUS -->
+<!-- ============================== -->
 <img src="assets/flowey.png" alt="<3" align="left" width="35%">
 
 ```csharp
@@ -28,9 +37,12 @@ Interests: AI, Linux, Machines, Scripting.
 ```
 <br><br>
 
+<!-- ============================== -->
+<!-- GITHUB STATS + DAILY QUOTE -->
+<!-- ============================== -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
  <tr>
-<td align="center">
+    <td align="center">
       <a href="https://github.com/satiricosorridente">
         <img src="https://github-stats-extended.vercel.app/api?username=satiricosorridente&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0&icon_color=A40000" width="90%" />
       </a>
@@ -38,7 +50,6 @@ Interests: AI, Linux, Machines, Scripting.
       <a href="https://github.com/satiricosorridente">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satiricosorridente&layout=compact&langs_count=7&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0" width="90%" />
       </a>
-    </td>
     </td>
     <td width="49%" valign="middle" align="center">
       <p align="center">
@@ -51,57 +62,64 @@ Interests: AI, Linux, Machines, Scripting.
 </table>
 <br>
 
-<h2 align="center">Favorite Songs</h2>
-<br>
+<!-- ============================== -->
+<!-- FAVORITE SONGS -->
+<!-- ============================== -->
 
-<table align="center" cellpadding="15" cellspacing="0" border="0">
-<tr>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=iCPm55hqA3k&list=RDiCPm55hqA3k&start_radio=1">
-    <img src="assets/bella-poarch.jpg" width="200"/>
-  </a>
-  <br><b>Living Hell - Bella Poarch</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=HxtMh-MpRog&list=RDHxtMh-MpRog&start_radio=1">
-    <img src="assets/ft funkist.jpg" width="200"/>
-  </a>
-  <br><b>Ft - Funkist</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=J_6mL_F3xjM&list=RDJ_6mL_F3xjM&start_radio=1">
-    <img src="assets/daarui.jpg" width="200"/>
-  </a>
-  <br><b>Rap do Ayankoji - Daarui</b>
-</td>
-</tr>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=h4HkXR3NSI4&list=RDh4HkXR3NSI4&start_radio=1">
-    <img src="assets/kanaria.jpg" width="200"/>
-  </a>
-  <br><b>Brain - Kanaria</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=h4HkXR3NSI4&list=RDh4HkXR3NSI4&start_radio=1">
-    <img src="assets/monster.jpg" width="200"/>
-  </a>
-  <br><b>Monster - Skillet</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=UwLRDMQYh9M&list=RDUwLRDMQYh9M&start_radio=1">
-    <img src="assets/catjade.jpg" width="200"/>
-  </a>
-  <br><b>Give it Up - Victorious</b>
-</td>
-</tr>
-</table>
-
-<tr>
+<h3 align="center">Favorite Songs</h3>
 <hr>
 <br>
 
-<img src="assets/anilist-favorites.svg" align="left" width="48%">
+<table align="center" cellpadding="15" cellspacing="0" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=iCPm55hqA3k&list=RDiCPm55hqA3k&start_radio=1">
+        <img src="assets/bella-poarch.jpg" width="200"/>
+      </a>
+      <br><b>Living Hell - Bella Poarch</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=HxtMh-MpRog&list=RDHxtMh-MpRog&start_radio=1">
+        <img src="assets/ft funkist.jpg" width="200"/>
+      </a>
+      <br><b>Ft - Funkist</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=J_6mL_F3xjM&list=RDJ_6mL_F3xjM&start_radio=1">
+        <img src="assets/daarui.jpg" width="200"/>
+      </a>
+      <br><b>Rap do Ayankoji - Daarui</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=h4HkXR3NSI4&list=RDh4HkXR3NSI4&start_radio=1">
+        <img src="assets/kanaria.jpg" width="200"/>
+      </a>
+      <br><b>Brain - Kanaria</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=h4HkXR3NSI4&list=RDh4HkXR3NSI4&start_radio=1">
+        <img src="assets/monster.jpg" width="200"/>
+      </a>
+      <br><b>Monster - Skillet</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=UwLRDMQYh9M&list=RDUwLRDMQYh9M&start_radio=1">
+        <img src="assets/catjade.jpg" width="200"/>
+      </a>
+      <br><b>Give it Up - Victorious</b>
+    </td>
+  </tr>
+</table>
 
+<hr>
+<br>
+
+<!-- ============================== -->
+<!-- ANIMES / ANILIST -->
+<!-- ============================== -->
+<img src="assets/anilist-favorites.svg" align="left" width="48%">
 <img src="assets/joker2.jpg" align="right" width="35%">
 
 <br clear="both">
@@ -112,10 +130,13 @@ Interests: AI, Linux, Machines, Scripting.
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E5%86%97%E8%AB%87%E3%81%AB%E8%8B%A6%E3%81%97%E3%82%81%E3%80%82&l0=1a0000&l1=4d0000&l2=800000&l3=A40000&l4=ff3333&bg=0D0D0D&frame=A40000&speed=188" />
   </a>
 </div>
-
 <br><br>
 <hr>
-<h2 align="center">Linguagens</h2>
+
+<!-- ============================== -->
+<!-- LANGUAGES -->
+<!-- ============================== -->
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -130,7 +151,10 @@ Interests: AI, Linux, Machines, Scripting.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
 </p>
 
-<h2 align="center">Ferramentas</h2>
+<!-- ============================== -->
+<!-- TOOLS -->
+<!-- ============================== -->
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -151,33 +175,41 @@ Interests: AI, Linux, Machines, Scripting.
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
-<tr>
-
-<h2 align="center">Contatos</h2>
+<!-- ============================== -->
+<!-- CONTATOS -->
+<!-- ============================== -->
+<h3 align="center">Contatos</h3>
 <p align="center">
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:justonrloveornothing@gmail.com">
     <img src="https://img.shields.io/badge/Email-A40000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-A40000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@SEU_USUARIO">
+  <a href="https://tiktok.com/@user4736903473099">
     <img src="https://img.shields.io/badge/TikTok-A40000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://reddit.com/user/SEU_USUARIO">
+  <a href="https://www.reddit.com/user/Annual_Feature_9320/">
     <img src="https://img.shields.io/badge/Reddit-A40000?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@SEU_CANAL">
+  <a href="https://www.youtube.com/@Sat%C3%ADricoMaldito">
     <img src="https://img.shields.io/badge/YouTube-A40000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
 <br>
 
-<h2 align="center">Contribution Graph</h2>
+<!-- ============================== -->
+<!-- CONTRIBUTION GRAPH (SNAKE) -->
+<!-- ============================== -->
+<h3 align="center">Contribution Graph</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/satiricosorridente/satiricosorridente/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<!-- resto do conteúdo do perfil aqui -->
+<h3 align="center">Visitas</h3>
+<p align="center">
+  <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg
+&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
+</p>
+
+<!-- ============================== -->
+<!-- BORDA INFERIOR -->
+<!-- ============================== -->
 <img src="assets/borda_top.png" width="100%">
