@@ -75,7 +75,6 @@ Interests: AI, Linux, Machines, Scripting.
   <br><b>Rap do Ayankoji - Daarui</b>
 </td>
 </tr>
-<tr>
 <td align="center">
   <a href="https://www.youtube.com/watch?v=h4HkXR3NSI4&list=RDh4HkXR3NSI4&start_radio=1">
     <img src="assets/kanaria.jpg" width="200"/>
@@ -98,14 +97,15 @@ Interests: AI, Linux, Machines, Scripting.
 </table>
 
 <tr>
-
-<h2 align="center">Favorites</h2>
+<hr>
 <br>
 
-<p align="center">
-  <img src="assets/anilist-favorites.svg" width="100%">
-</p>
-<br>
+<img src="assets/anilist-favorites.svg" align="left" width="48%">
+
+<img src="assets/joker2.jpg" align="right" width="35%">
+
+<br clear="both">
+<br><br>
 
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
