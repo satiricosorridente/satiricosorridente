@@ -178,7 +178,7 @@ Interests: AI, Linux, Machines, Scripting.
 <!-- ============================== -->
 <!-- CONTATOS -->
 <!-- ============================== -->
-<h3 align="center">Contatos</h3>
+<h3 align="center">Contactss</h3>
 <p align="center">
   <a href="mailto:justonrloveornothing@gmail.com">
     <img src="https://img.shields.io/badge/Email-A40000?style=for-the-badge&logo=gmail&logoColor=white" />
