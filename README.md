@@ -49,7 +49,7 @@ Interests: AI, Linux, Machines, Scripting.
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 
 <h2 align="center">Favorite Songs</h2>
 <br>
