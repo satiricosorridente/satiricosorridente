@@ -31,7 +31,6 @@ Interests: AI, Linux, Machines, Scripting.
 <hr color="#A40000" size="1" width="90%">
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
- <tr>
 <td align="center">
       <a href="https://github.com/satiricosorridente">
         <img src="https://github-stats-extended.vercel.app/api?username=satiricosorridente&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0&icon_color=A40000" width="90%" />
@@ -50,7 +49,6 @@ Interests: AI, Linux, Machines, Scripting.
       </p>
       <img src="assets/writh.png" width="300">
     </td>
-  </tr>
 </table>
 <br><br>
 
