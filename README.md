@@ -33,7 +33,7 @@ Games: Roblox, Minecraft, Brawl Stars, Bloons TD 6,
 deeeep.io, Celeste.
 
 Interests: AI, Linux, Machines, Scripting.
-----------------------------------------------------------------
+------------------------------------------------------------------
 ```
 <br><br>
 
