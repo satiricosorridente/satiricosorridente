@@ -203,7 +203,7 @@ Interests: AI, Linux, Machines, Scripting.
   <img src="https://raw.githubusercontent.com/satiricosorridente/satiricosorridente/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<h3 align="center">Visitas</h3>
+<h3 align="center">Visits</h3>
 <p align="center">
   <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
 </p>
