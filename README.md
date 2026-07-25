@@ -205,8 +205,7 @@ Interests: AI, Linux, Machines, Scripting.
 
 <h3 align="center">Visitas</h3>
 <p align="center">
-  <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg
-&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
+  <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
 </p>
 
 <!-- ============================== -->
