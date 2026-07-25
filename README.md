@@ -28,8 +28,6 @@ Interests: AI, Linux, Machines, Scripting.
 ```
 <br><br>
 
-<hr color="#A40000" size="1" width="90%">
-
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
  <tr>
 <td align="center">
@@ -41,7 +39,6 @@ Interests: AI, Linux, Machines, Scripting.
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satiricosorridente&layout=compact&langs_count=7&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0" width="90%" />
       </a>
     </td>
-    <td width="2" bgcolor="#A40000">
     </td>
     <td width="49%" valign="middle" align="center">
       <p align="center">
@@ -55,7 +52,6 @@ Interests: AI, Linux, Machines, Scripting.
 <br><br>
 
 <h2 align="center">Favorite Songs</h2>
-<hr color="#A40000" size="2" width="90%">
 <br>
 
 <table align="center" cellpadding="15" cellspacing="0" border="0">
@@ -96,7 +92,7 @@ Interests: AI, Linux, Machines, Scripting.
   <a href="https://www.youtube.com/watch?v=UwLRDMQYh9M&list=RDUwLRDMQYh9M&start_radio=1">
     <img src="assets/catjade.jpg" width="200"/>
   </a>
-  <br><b>Brain - Kanaria</b>
+  <br><b>Give it Up - Victorious</b>
 </td>
 </tr>
 </table>
@@ -104,7 +100,6 @@ Interests: AI, Linux, Machines, Scripting.
 <tr>
 
 <h2 align="center">Favorites</h2>
-<hr color="#A40000" size="1" width="90%">
 <br>
 
 <p align="center">
