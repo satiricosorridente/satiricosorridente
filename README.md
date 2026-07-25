@@ -29,27 +29,26 @@ Interests: AI, Linux, Machines, Scripting.
 <br><br>
 
 <hr color="#A40000" size="1" width="90%">
+<br><br>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<td align="center">
-      <a href="https://github.com/satiricosorridente">
-        <img src="https://github-stats-extended.vercel.app/api?username=satiricosorridente&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0&icon_color=A40000" width="90%" />
-      </a>
-      <br>
-      <a href="https://github.com/satiricosorridente">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satiricosorridente&layout=compact&langs_count=7&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0" width="90%" />
-      </a>
-    </td>
-    <td width="2" bgcolor="#A40000">
-    </td>
-    <td width="49%" valign="middle" align="center">
-      <p align="center">
-        <b>Daily Quote</b>
-        <img src="assets/clown.png" width="60">
-      </p>
-      <img src="assets/writh.png" width="300">
-    </td>
-</table>
+<p align="center">
+  <a href="https://github.com/satiricosorridente">
+    <img src="https://github-stats-extended.vercel.app/api?username=satiricosorridente&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0&icon_color=A40000" width="450" />
+  </a>
+  <br>
+  <a href="https://github.com/satiricosorridente">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satiricosorridente&layout=compact&langs_count=7&hide_border=true&bg_color=0D0D0D&title_color=A40000&text_color=E0E0E0" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Daily Quote</b>
+  <img src="assets/clown.png" width="60">
+</p>
+
+<p align="center">
+  <img src="assets/writh.png" width="300">
+</p>
 <br><br>
 
 <h2 align="center">Favorite Songs</h2>
