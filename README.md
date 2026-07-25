@@ -1,5 +1,5 @@
 <img src="assets/borda_bottom.png" width="100%" >
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
