@@ -1,21 +1,12 @@
-<!-- ============================== -->
-<!-- BORDA SUPERIOR -->
-<!-- ============================== -->
 <img src="assets/borda_bottom.png" width="100%" >
 <br>
 
-<!-- ============================== -->
-<!-- TÍTULO ANIMADO -->
-<!-- ============================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&size=22&letterSpacing=10px&duration=4350&pause=600&color=A40000&background=FF1B1B00&width=800&height=45&lines=%F0%9F%82%A0+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%99%A0%EF%B8%8F+%E2%99%A5%EF%B8%8F+SATIRICALLY+%E2%99%A6%EF%B8%8F+%E2%99%A3%EF%B8%8F+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%F0%9F%82%A0;%F0%9F%82%A0+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%E2%99%A0%EF%B8%8F+%E2%99%A5%EF%B8%8FSMILING+%E2%99%A6%EF%B8%8F+%E2%99%A3%EF%B8%8F+%E2%8B%86%E2%81%BA%E2%82%8A%E2%8B%86+%F0%9F%82%A0" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ============================== -->
-<!-- BIO / STATUS -->
-<!-- ============================== -->
 <img src="assets/flowey.png" alt="<3" align="left" width="35%">
 
 ```csharp
@@ -33,13 +24,10 @@ Games: Roblox, Minecraft, Brawl Stars, Bloons TD 6,
 deeeep.io, Celeste.
 
 Interests: AI, Linux, Machines, Scripting.
-----------------------------------------------------------------
+------------------------------------------------------------------
 ```
 <br><br>
 
-<!-- ============================== -->
-<!-- GITHUB STATS + DAILY QUOTE -->
-<!-- ============================== -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
  <tr>
     <td align="center">
@@ -61,10 +49,6 @@ Interests: AI, Linux, Machines, Scripting.
   </tr>
 </table>
 <br>
-
-<!-- ============================== -->
-<!-- FAVORITE SONGS -->
-<!-- ============================== -->
 
 <h3 align="center">Favorite Songs</h3>
 <hr>
@@ -116,9 +100,6 @@ Interests: AI, Linux, Machines, Scripting.
 <hr>
 <br>
 
-<!-- ============================== -->
-<!-- ANIMES / ANILIST -->
-<!-- ============================== -->
 <img src="assets/anilist-favorites.svg" align="left" width="48%">
 <img src="assets/joker2.jpg" align="right" width="35%">
 
@@ -133,9 +114,6 @@ Interests: AI, Linux, Machines, Scripting.
 <br><br>
 <hr>
 
-<!-- ============================== -->
-<!-- LANGUAGES -->
-<!-- ============================== -->
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -151,9 +129,6 @@ Interests: AI, Linux, Machines, Scripting.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- ============================== -->
-<!-- TOOLS -->
-<!-- ============================== -->
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -175,10 +150,7 @@ Interests: AI, Linux, Machines, Scripting.
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
-<!-- ============================== -->
-<!-- CONTATOS -->
-<!-- ============================== -->
-<h3 align="center">Contatos</h3>
+<h3 align="center">Contactss</h3>
 <p align="center">
   <a href="mailto:justonrloveornothing@gmail.com">
     <img src="https://img.shields.io/badge/Email-A40000?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -195,9 +167,6 @@ Interests: AI, Linux, Machines, Scripting.
 </p>
 <br>
 
-<!-- ============================== -->
-<!-- CONTRIBUTION GRAPH (SNAKE) -->
-<!-- ============================== -->
 <h3 align="center">Contribution Graph</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/satiricosorridente/satiricosorridente/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -205,11 +174,7 @@ Interests: AI, Linux, Machines, Scripting.
 
 <h3 align="center">Visits</h3>
 <p align="center">
-  <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg
-&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
+  <img src="https://moe.maymeow.dev/@satiricosorridente?theme=booru-smtg&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=0" alt="contador de visitas"/>
 </p>
 
-<!-- ============================== -->
-<!-- BORDA INFERIOR -->
-<!-- ============================== -->
 <img src="assets/borda_top.png" width="100%">
