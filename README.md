@@ -69,7 +69,7 @@ Interests: AI, Linux, Machines, Scripting.
       <br><b>Ft - Funkist</b>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=gjbguYbJQNo&list=RDGMEMCMFH2exzjBeE_zAHHJOdxgVMgjbguYbJQNo&start_radio=1">
+      <a href="https://www.youtube.com/watch?v=L8eRzOYhLuw&list=RDL8eRzOYhLuw&start_radio=1">
         <img src="assets/ariana.jpg" width="200"/>
       </a>
       <br><b>Break Free - Ariana Grande</b>
@@ -83,16 +83,16 @@ Interests: AI, Linux, Machines, Scripting.
       <br><b>Brain - Kanaria</b>
     </td>
     <td align="center">
-      <a href="https://youtu.be/1mjlM_RnsVE?si=z7FJA6VCwf_3Hriu">
+      <a href="https://www.youtube.com/watch?v=C-o8pTi6vd8&list=RDC-o8pTi6vd8&start_radio=1">
         <img src="assets/naragoto.jpg" width="200"/>
       </a>
-      <br><b>Monster - Skillet</b>
+      <br><b>Hey Kids!! - THE ORAL CIGARETTES </b>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=UwLRDMQYh9M&list=RDUwLRDMQYh9M&start_radio=1">
+      <a href="https://www.youtube.com/watch?v=2eOg5DoYuwU&list=RD2eOg5DoYuwU&start_radio=1">
         <img src="assets/eve.jpg" width="200"/>
       </a>
-      <br><b>Give it Up - Victorious</b>
+      <br><b>Fight Song - Eve</b>
     </td>
   </tr>
 </table>
